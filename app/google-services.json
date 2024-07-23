@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "948568947743",
+    "firebase_url": "https://linkup-efb26-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "linkup-efb26",
+    "storage_bucket": "linkup-efb26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948568947743:android:39646a0cafae0c13dba92a",
+        "android_client_info": {
+          "package_name": "com.example.linkup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6A2vi86_eVjDz5Cab2GuofhDEfJ5hazs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
